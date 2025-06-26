@@ -1,0 +1,18 @@
+===== imama1's Budgeting Report =====
+
+>> Incomes:
+  - Rs 10000.0 | Note: 1st salary
+  - Rs 15000.0 | Note: 2nd salary
+
+>> Expenses:
+  - Rs 5000.0 | Category: food | Note: groceries
+  - Rs 2000.0 | Category: bills | Note: N/A
+  - Rs 3000.0 | Category: transport | Note: van and bus
+  - Rs 4000.0 | Category: FoOd | Note: N/A
+  - Rs 1000.0 | Category: gifts | Note: birthdays
+
+>> Summary:
+  Total Income  : Rs 25000.0
+  Total Expense : Rs 15000.0
+  Balance       : Rs 10000.0
+  Status        : imama1 needs to keep tracking.
