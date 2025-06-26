@@ -69,3 +69,5 @@ AuraFin is a command-line Python application designed to help users manage their
 2. Run the script in your terminal or preferred IDE:
    ```bash
    python aurafin.py
+## User Interface
+![UI](https://github.com/ImamaSarwar/Smart-Budget-Tracker-and-Expenses-Analyzer/raw/5131d8f775aae856312ca4ec524e520f86ea28fe/UI.png))
