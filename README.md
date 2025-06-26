@@ -1,6 +1,6 @@
 # AuraFin: Smart Budget Tracker & Expenses Analyzer
 
-AuraFin is a command-line Python application designed to help users manage their incomes, expenses, and savings goals efficiently. It features user authentication, income and expense tracking, summaries, intelligent financial insights, and category-wise analysis — all while allowing customization of currency symbols and savings targets.
+AuraFin is a command-line Python application designed to help users manage their incomes, expenses, and savings goals efficiently. It features user authentication, income and expense tracking, summaries, intelligent financial insights, and category-wise analysis, all while allowing customization of currency symbols and savings targets.
 
 ## Features
 
